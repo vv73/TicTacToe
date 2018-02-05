@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vv\Desktop\TicTacToe1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\vv\Desktop\TicTacToe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_bb0346de452bbeeeca6d76dac206b0937bd69716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vv\Desktop\TicTacToe1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\vv\Desktop\TicTacToe1\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_4366dd9f70b538356458a71ac2b98fe278968c2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\vv\Desktop\TicTacToe1\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_5129f8bde69b8e9f927fc544f89ecaf4d60c953a.jar" />
+    </item>
+
+</items>
